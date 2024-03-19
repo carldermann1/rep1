@@ -1,0 +1,11 @@
+  h2.color-title {
+    font-weight: normal;
+  }
+  
+  img.color {
+    width: 200px;
+    height: 200px;
+    display: block; 
+    margin-top: 10px; 
+  }
+  
